@@ -1,6 +1,5 @@
 /*
 author : santanukgp
-problem:https://codeforces.com/problemset/problem/{ProblemSet}/{ProblemNumber}
 */
 #include<bits/stdc++.h>
 using namespace std;
